@@ -1,5 +1,8 @@
 # "a" o'zgaruvchisiga 7 (butun son) qiymatini bering.
-
+a=7
+b=3
+c=5
+print(a+b+c)
 # "b" o'zgaruvchisiga 3 (butun son) qiymatini bering.
 
 # "c" o'zgaruvchisiga 5 (butun son) qiymatini bering.
